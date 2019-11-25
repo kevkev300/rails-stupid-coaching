@@ -1,4 +1,7 @@
-class QuestionsController < ApplicationController
+# frozen_string_literal: true
+# top-level documentation class comment
+
+class class QuestionsController < ApplicationController
   def ask
   end
 
