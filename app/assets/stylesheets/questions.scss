@@ -1,0 +1,36 @@
+p {
+  font-style: italic;
+}
+
+input {
+  border: 0px;
+  margin: -6px;
+  font-size: 24px;
+}
+
+#question {
+  width: 80%;
+  border-radius: 6px;
+  border-top: 2px solid rgb(230, 230, 230);
+  border-left: 2px solid rgb(230, 230, 230);
+  border-bottom: 2px solid rgb(230, 230, 230);
+}
+
+#submit {
+  width: 19%;
+  background-color: blue;
+  color: white;
+  border-top: 2px solid blue;
+  border-left: 2px solid blue;
+  border-bottom: 2px solid blue;
+  border-right: 2px solid blue;
+  border-radius: 0px 6px 6px 0px;
+}
+
+.chat {
+  border-left: 6px solid rgb(230, 230, 230);
+  padding-left: 10px;
+}
+ .coach {
+  background-color: yellow;
+ }
